@@ -93,4 +93,3 @@ iOS 15: ✅
 iOS 14: ✅
 iOS 13: ✅
 Apple Arcade: ✅
-That Uses A Website For Android Open [Demoloop](https://fakedemoloop.gt.tc)
